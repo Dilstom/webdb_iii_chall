@@ -1,0 +1,20 @@
+{
+ "name": "webdb-iii-challenge-master",
+ "version": "1.0.0",
+ "main": "index.js",
+ "repository": "https://github.com/Dilstom/webdb_iii_chall.git",
+ "author": "<dilyasom@gmail.com>",
+ "license": "MIT",
+ "scripts": {
+  "server": "nodemon"
+ },
+ "dependencies": {
+  "express": "^4.16.4",
+  "helmet": "^3.16.0",
+  "knex": "^0.16.5",
+  "sqlite3": "^4.0.6"
+ },
+ "devDependencies": {
+  "nodemon": "^1.18.11"
+ }
+}
